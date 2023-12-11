@@ -30,13 +30,10 @@ For more information on the importance of a professional README for your reposit
 
   <h3><b>Microverse Capstone Project</b></h3>
 
-</div>
-
+``` git clone  https://github.com/OrdinaryMack/Microverse-Capstone-project.git ```
 <!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-
-> Add a link to your deployed project.
 
 - [Live Demo Link](https://ordinarymack.github.io/Microverse-Capstone-project/)
 
