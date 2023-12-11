@@ -1,0 +1,72 @@
+@import url("https://fonts.googleapis.com/css2?family=Inclusive+Sans:ital@0;1&family=Lato:ital,wght@0,400;1,900&family=Montserrat:wght@100&family=Oswald:wght@300;400;500;600;700&display=swap");
+
+* {
+  font-family: "Inclusive Sans", "Lato", sans-serif;
+  font-weight: bold;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+@media (max-width: 768px) {
+  .showmenu,
+  .logo-wagon {
+    display: none;
+  }
+
+  .navbar-brand,
+  .cc {
+    display: none;
+  }
+
+  .paragraph {
+    margin-top: 50px;
+  }
+
+  .date {
+    margin-top: 30px;
+  }
+
+  .see-program {
+    display: none;
+  }
+
+  .adress {
+    display: block;
+  }
+
+  .card-body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+}
+
+.paragraph,
+.lorem {
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+hr {
+  max-width: 200px;
+  margin-left: auto;
+  margin-right: auto;
+  opacity: 1;
+}
+
+.image-one {
+  width: 100%;
+}
+
+.image-two {
+  width: 100%;
+}
+
+.logo-imge {
+  width: 100%;
+}
+
+.logo-wagon {
+  width: 40px;
+}
