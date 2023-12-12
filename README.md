@@ -2,8 +2,8 @@
 
 <!--
 !!! IMPORTANT !!!
-This README is an example of how you could professionally present your codebase. 
-Writing documentation is a crucial part of your work as a professional software developer and cannot be ignored. 
+This README is an example of how you could professionally present your codebase.
+Writing documentation is a crucial part of your work as a professional software developer and cannot be ignored.
 
 You should modify this file to match your project and remove sections that don't apply.
 
@@ -36,9 +36,7 @@ For more information on the importance of a professional README for your reposit
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
-
-- [Live Demo Link](https://google.com)
+- [Live Demo Link](https://ordinarymack.github.io/Microverse-Capstone-project/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -54,12 +52,9 @@ Contributions, issues, and feature requests are welcome!
 
 ## ⭐️ Show your support <a name="support"></a>
 
-
 If you like this project, send a star.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- LICENSE -->
 
